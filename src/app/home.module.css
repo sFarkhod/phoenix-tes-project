@@ -1,0 +1,19 @@
+
+@media (max-width: 1570px) {
+    .mountain {
+      background-size: cover !important;
+    }
+    .clouds {
+      background-size: cover !important;
+    }
+}
+
+@media (max-width: 425px) {
+  .buttons {
+    flex-direction: column;
+  }
+}
+
+@media (max-width: 415px) {
+  
+}
